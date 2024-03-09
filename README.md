@@ -15,7 +15,7 @@ This is a chat bot built with Node.js and Express, integrated with OpenAI's API 
 ## NOTE
 
 
-This project has undergone a transformation and is now powered by React. Feel free to explore the revamped version by visiting the repository [here](https://github.com/tyleroneil72/react-chat-bot)
+This project has undergone a transformation and is now powered by React. Feel free to explore the revamped version by visiting the repository [here](https://github.com/Joschy1976/react-chat-bot)
 ## Features
 
 - Natural Language Processing (NLP) using OpenAI's API.
@@ -24,7 +24,7 @@ This project has undergone a transformation and is now powered by React. Feel fr
 - Fully customizable/tweakable
 
 ## Example
-![image](https://github.com/tyleroneil72/chat-bot/assets/43754564/9f63c52f-9229-49ef-8987-4e5d080f8672)
+![image](https://github.com/Joschy1976/chat-bot/assets/43754564/9f63c52f-9229-49ef-8987-4e5d080f8672)
 
 
 ## Installation
@@ -32,7 +32,7 @@ This project has undergone a transformation and is now powered by React. Feel fr
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/tyleroneil72/chat-bot.git
+git clone https://github.com/Joschy1976/chat-bot.git
 cd chat-bot
 ```
 
@@ -80,6 +80,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 This project was inspired by the capabilities of OpenAI's API.
 
 ## Contact
-For any inquiries or questions, you can reach me at tyleroneildev@gmail.com
-or on my linkedin at https://ca.linkedin.com/in/tyler-oneil-dev
+For any inquiries or questions, you can reach me at joschy0709@gmail.com
+or on my linkedin at https://ca.linkedin.com/in/sven-janorschke-dev
 

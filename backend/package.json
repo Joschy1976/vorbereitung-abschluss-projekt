@@ -14,6 +14,6 @@
   "version": "1.0.0",
   "description": "Chat Bot Using OpenAI's API backend express server",
   "main": "app.js",
-  "author": "Tyler O'Neil",
+  "author": "Sven Janorschke",
   "license": "MIT"
 }
