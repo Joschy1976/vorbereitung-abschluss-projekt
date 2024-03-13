@@ -81,5 +81,5 @@ This project was inspired by the capabilities of OpenAI's API.
 
 ## Contact
 For any inquiries or questions, you can reach me at joschy0709@gmail.com
-or on my linkedin at https://ca.linkedin.com/in/sven-janorschke-dev
+
 
