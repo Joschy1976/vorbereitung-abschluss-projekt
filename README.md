@@ -15,7 +15,7 @@ This is a chat bot built with Node.js and Express, integrated with OpenAI's API 
 ## NOTE
 
 
-This project has undergone a transformation and is now powered by React. Feel free to explore the revamped version by visiting the repository [here](https://github.com/Joschy1976/react-chat-bot)
+This project has undergone a transformation and is now powered by React. Feel free to explore the revamped version by visiting the repository [here](https://github.com/Joschy1976/vorbereitung-abschluss-projekt)
 ## Features
 
 - Natural Language Processing (NLP) using OpenAI's API.
